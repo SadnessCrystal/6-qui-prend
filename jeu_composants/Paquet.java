@@ -3,9 +3,6 @@ package jeu_composants;
 import java.util.ArrayList;
 
 public class Paquet extends ArrayList<Carte>{
-    
-
-
     /**
      * @brief Retourne la chaîne de caractère désignant le paquet
      * @return [La liste de cartes]
